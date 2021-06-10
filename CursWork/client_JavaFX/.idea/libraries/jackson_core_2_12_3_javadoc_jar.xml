@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jackson-core-2.12.3-javadoc.jar">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/src/client/jsoup/jackson-core-2.12.3-javadoc.jar.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

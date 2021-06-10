@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="350.0" prefWidth="700.0" style="-fx-background-color: #2E3348;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.controllers.RegistrationController">
+   <children>
+      <AnchorPane layoutY="99.0" prefHeight="350.0" prefWidth="700.0" style="-fx-background-color: fafafa;">
+         <children>
+            <TextField fx:id="FieldRegistrationUsername" layoutX="32.0" layoutY="54.0" prefHeight="37.0" prefWidth="223.0" style="-fx-background-color: fafafa; -fx-border-color: silver; -fx-border-radius: 5;" />
+            <TextField fx:id="FieldRegistrationPassword" layoutX="32.0" layoutY="132.0" prefHeight="37.0" prefWidth="223.0" style="-fx-background-color: fafafa; -fx-border-color: silver; -fx-border-radius: 5;" />
+            <TextField fx:id="FieldRegistrationEmail" layoutX="441.0" layoutY="54.0" prefHeight="37.0" prefWidth="223.0" style="-fx-background-color: fafafa; -fx-border-color: silver; -fx-border-radius: 5;" />
+            <TextField fx:id="FieldRegistrationAdress" layoutX="441.0" layoutY="132.0" prefHeight="37.0" prefWidth="223.0" style="-fx-background-color: fafafa; -fx-border-color: silver; -fx-border-radius: 5;" />
+            <Button fx:id="RegistrationButton" layoutX="278.0" layoutY="286.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="144.0" style="-fx-background-color: #F39C63;" text="Зарегистрироваться" textFill="WHITE">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Button>
+            <Label layoutX="40.0" layoutY="29.0" text="Username">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="38.0" layoutY="109.0" text="Password">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="450.0" layoutY="29.0" text="E-mail">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="448.0" layoutY="109.0" text="Adress">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <TextField fx:id="FieldRegistrationName" layoutX="32.0" layoutY="215.0" prefHeight="37.0" prefWidth="223.0" style="-fx-background-color: fafafa; -fx-border-color: silver; -fx-border-radius: 5;" />
+            <TextField fx:id="FieldRegistrationLastname" layoutX="441.0" layoutY="215.0" prefHeight="37.0" prefWidth="223.0" style="-fx-background-color: fafafa; -fx-border-color: silver; -fx-border-radius: 5;" />
+            <Label layoutX="40.0" layoutY="194.0" text="Имя">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="450.0" layoutY="194.0" text="Фамилия">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <CheckBox fx:id="CheckBoxMan" layoutX="313.0" layoutY="215.0" mnemonicParsing="false" onAction="#handleManBox" text="Мужчина">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font></CheckBox>
+            <CheckBox fx:id="CheckBoxFemale" layoutX="313.0" layoutY="236.0" mnemonicParsing="false" onAction="#handleFemaleBox" text="Женщина">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font></CheckBox>
+            <Label fx:id="StatusLabel" layoutX="38.0" layoutY="286.0" prefHeight="37.0" prefWidth="223.0">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+         </children></AnchorPane>
+      <Label layoutX="211.0" layoutY="22.0" prefHeight="55.0" prefWidth="279.0" text="Registration Form" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="33.0" />
+         </font>
+      </Label>
+      <Button fx:id="BackButtonRegistration" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" style="-fx-background-color: #F39C63;" text="Обратно" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="15.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
