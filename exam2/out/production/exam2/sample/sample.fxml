@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="800.0" style="-fx-background-color: #fafafa;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+    <Button fx:id="button" layoutX="223.0" layoutY="382.0" mnemonicParsing="false" prefHeight="83.0" prefWidth="356.0" style="-fx-background-color: #F39C63;" text="Отобразить" textFill="WHITE">
+        <font>
+          <Font name="Comic Sans MS" size="40.0" />
+        </font>
+    </Button>
+    <Label fx:id="finalvalues" alignment="CENTER" contentDisplay="CENTER" layoutX="36.0" layoutY="34.0" prefHeight="205.0" prefWidth="730.0">
+        <font>
+          <Font name="Comic Sans MS" size="39.0" />
+        </font>
+    </Label>
+   <TextField fx:id="day" layoutX="240.0" layoutY="316.0" prefHeight="45.0" prefWidth="94.0" />
+   <TextField fx:id="month" layoutX="345.0" layoutY="316.0" prefHeight="45.0" prefWidth="94.0" />
+   <Label layoutX="273.0" layoutY="293.0" text="День">
+      <font>
+         <Font name="Comic Sans MS" size="12.0" />
+      </font>
+   </Label>
+   <Label layoutX="374.0" layoutY="293.0" text="Месяц">
+      <font>
+         <Font name="Comic Sans MS" size="12.0" />
+      </font>
+   </Label>
+   <TextField fx:id="year" layoutX="455.0" layoutY="316.0" prefHeight="45.0" prefWidth="94.0" />
+   <Label layoutX="492.0" layoutY="293.0" text="Год" />
+</AnchorPane>
