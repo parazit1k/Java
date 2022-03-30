@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">reaction</string>
+    <string name="check_reation">Check Reaction</string>
+    <string name="title">Reaction Test</string>
+    <string name="version">v1.0</string>
+    <string name="about">
+        Moscow 2021
+        <a href="https://github.com/Pararazitik">PARALONE</a>
+    </string>
+    <string name="firstbutton">Default Test</string>
+    <string name="secondbutton">Hard Test</string>
+</resources>
