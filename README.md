@@ -3,5 +3,6 @@
 
 # Java Core
 
-+ Синтаксис ![icon][done.png]
+#### + Синтаксис ![done](done.png)
+
 
