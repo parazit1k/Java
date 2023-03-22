@@ -1,6 +1,6 @@
-# Процесс изучения Java
+# Процесс изучения Java  ![%](https://progress-bar.dev/23)
 Здесь будет список тем и подтем, которые я изучаю/изучил  
-![%](https://progress-bar.dev/23)
+
 # Java
 
 + ## IDEs ![done](done.png)
