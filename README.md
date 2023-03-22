@@ -1,3 +1,9 @@
-# Java
-Java Projects
-test
+# Процесс изучения Java
+<p>Здесь будет список тем и подтем, которые я изучаю/изучил</p>
+
+# Java Core
+<div align="left">
+
+* Синтаксис ![icon][done]
+
+</div>
