@@ -4,6 +4,6 @@
 # Java Core
 <div align="left">
 
-* Синтаксис ![icon][done]
++ Синтаксис ![icon][done.png]
 
 </div>
