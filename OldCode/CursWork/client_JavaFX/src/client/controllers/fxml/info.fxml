@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #2E3348;" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.controllers.InfoController">
+   <children>
+      <AnchorPane layoutY="50.0" prefHeight="350.0" prefWidth="600.0" style="-fx-background-color: fafafa;">
+         <children>
+            <Label alignment="CENTER" layoutX="207.0" layoutY="318.0" text="Copyright © 2021 Телицын Егор">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="28.0" layoutY="27.0" text="Курсовая работа на тему: &quot;Информационно-справочная система магазина цифровой техники&quot;">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="88.0" layoutY="56.0" text="Для реализации проекта были использованны следующие компоненты:">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="201.0" layoutY="84.0" text="1. База данных написанная на SQL">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="173.0" layoutY="111.0" text="2. Сервер написанный на SPRING REST API">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="202.0" layoutY="138.0" text="3. Клиент, написанный на JavaFX">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="10.0" layoutY="166.0" text="Работа выполнена студентом Финансового Университета при правительстве Российской Федерации">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="196.0" layoutY="192.0" text="Телицыном Егор Александровичем">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="255.0" layoutY="219.0" text="Группа ПИ19-3">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="233.0" layoutY="243.0" text="Научный руководитель">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+            <Label layoutX="206.0" layoutY="267.0" text="Золотарюк Анатолий Васиьевич">
+               <font>
+                  <Font name="Comic Sans MS" size="12.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <Button fx:id="BackButton" layoutX="5.0" layoutY="5.0" mnemonicParsing="false" style="-fx-background-color: #F39C63;" text="Обратно" textFill="WHITE">
+         <font>
+            <Font name="Comic Sans MS" size="12.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
