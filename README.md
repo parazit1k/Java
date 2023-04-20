@@ -1,5 +1,5 @@
 # Мой стэк
-Java Junior ![%](https://progress-bar.dev/23)  
+Java Junior ![%](https://progress-bar.dev/30)  
 Здесь будет список тем и подтем, которые я изучаю/изучил  
 
 # Java
