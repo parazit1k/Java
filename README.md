@@ -6,6 +6,11 @@ Spring REST - [ссылка](https://github.com/parazit1k/Java/tree/main/OldCode
 JavaFX - [ссылка](https://github.com/parazit1k/Java/tree/main/OldCode/CursWork/client_JavaFX/src/client)
 
 README ![done](done.png)
+
+## *Проработка книги Грокаем алгоритмы*
+
+[ссылка](https://github.com/parazit1k/GrokkingAlgorithms/tree/master/src/main/java/org/PARAZITIK)
+
 # Мой стэк
 Java Junior ![%](https://progress-bar.dev/30)  
 Здесь будет список тем и подтем, которые я изучаю/изучил  
