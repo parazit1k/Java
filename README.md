@@ -12,7 +12,7 @@ README ![done](done.png)
 [ссылка](https://github.com/parazit1k/GrokkingAlgorithms/tree/master/src/main/java/org/PARAZITIK)
 
 # Мой стэк
-Java Junior ![%](https://progress-bar.dev/30)  
+Java Junior ![%](https://progress-bar.dev/65)  
 Здесь будет список тем и подтем, которые я изучаю/изучил  
 
 # Java
@@ -34,15 +34,15 @@ Java Junior ![%](https://progress-bar.dev/30)
     + ### List ![done](done.png)
     + ### Set ![done](done.png)
     + ### Map ![done](done.png)
-    + ### SortedMap
+    + ### SortedMap ![done](done.png)
   + ### Concurrency
-    + ### Thread
+    + ### Thread 
     + ### Loom
     + ### Thread Pool
   + ### Java 17
-    + ### Functional Programming
-    + ### Lambdas
-    + ### Stream API
+    + ### Functional Programming ![done](done.png)
+    + ### Lambdas ![done](done.png)
+    + ### Stream API ![done](done.png)
     + ### Date Time Api
     + ### Optional
     + ### Switch Expression
@@ -58,26 +58,26 @@ Java Junior ![%](https://progress-bar.dev/30)
 ## Фреймворки
 + ### Spring
   + ### SpringBoot ![done](done.png)
-  + ### Spring Core
+  + ### Spring Core ![done](done.png)
   + ### Spring Cloud
 
 ## Git
-+ ### branch 
++ ### branch ![done](done.png)
 + ### master ![done](done.png)
 + ### checkout
 + ### checking
 + ### push ![done](done.png)
-+ ### pull
++ ### pull ![done](done.png)
 + ### git diff
 + ### git commit ![done](done.png)
 
 ## Linux
 + ### bash ![done](done.png)
 
-## Структуры данных и алгоритмы
+## Структуры данных и алгоритмы ![done](done.png)
 
-## HTTP / HTTPS
+## HTTP / HTTPS ![done](done.png)
 
-## SQL
+## SQL ![done](done.png)
 
 ## Шаблоны проектирования
