@@ -12,7 +12,7 @@ README ![done](done.png)
 [ссылка](https://github.com/parazit1k/GrokkingAlgorithms/tree/master/src/main/java/org/PARAZITIK)
 
 # Мой стэк
-Java Junior ![%](https://progress-bar.dev/65)  
+Java Junior ![%](https://progress-bar.dev/100)  
 Здесь будет список тем и подтем, которые я изучаю/изучил  
 
 # Java
@@ -22,8 +22,8 @@ Java Junior ![%](https://progress-bar.dev/65)
   + ### Eclipse
 
 + ## Инструменты сборки
-  + ### Maven
-  + ### Gradle
+  + ### Maven ![done](done.png)
+  + ### Gradle ![done](done.png)
 
 + ## Контейнеры и инструменты DevOps
   + ### Docker
@@ -43,13 +43,13 @@ Java Junior ![%](https://progress-bar.dev/65)
     + ### Functional Programming ![done](done.png)
     + ### Lambdas ![done](done.png)
     + ### Stream API ![done](done.png)
-    + ### Date Time Api
-    + ### Optional
-    + ### Switch Expression
+    + ### Date Time Api ![done](done.png)
+    + ### Optional ![done](done.png)
+    + ### Switch Expression ![done](done.png)
     + ### Sealed Class
     + ### Record
   + ### IO
-    + ### File IO
+    + ### File IO ![done](done.png)
     + ### Networking IO
     + ### Socket Programming
     + ### Java NIO
@@ -64,11 +64,11 @@ Java Junior ![%](https://progress-bar.dev/65)
 ## Git
 + ### branch ![done](done.png)
 + ### master ![done](done.png)
-+ ### checkout
-+ ### checking
++ ### checkout ![done](done.png)
++ ### checking ![done](done.png)
 + ### push ![done](done.png)
 + ### pull ![done](done.png)
-+ ### git diff
++ ### git diff ![done](done.png)
 + ### git commit ![done](done.png)
 
 ## Linux
